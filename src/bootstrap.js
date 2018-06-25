@@ -1,4 +1,4 @@
 // ES6 code goes here
-import { greeting } from './helper';
+import { multiply } from './helper';
 
-console.log(greeting);
+console.log(multiply(2, 5));
